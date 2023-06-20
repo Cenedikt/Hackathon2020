@@ -1,4 +1,4 @@
-# Hackaton2020 Pforzheim diversity
+# Hackathon2020 Pforzheim diversity
 Techies in and around Pforzheim and the Enzkreis district -- especially women, people with disabilities, and those with a migrant background! The Digital Hub Pforzheim / Enzkreis invites you to participate in their Diversity & Inclusion Hackathon. At this event held over two days, you'll get 24 hours, to conceptualize, design, and demo a digital solution prototype that helps address the challenges of enabling diversity and inclusion.
 
 # PFreundschiff
